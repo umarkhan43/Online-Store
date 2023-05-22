@@ -4,7 +4,7 @@ import image1 from "../Assets/slider1.jpg"
 import image2 from "../Assets/slider8.jpg"
 import image3 from "../Assets/slider6.jpg"
 import image4 from "../Assets/slider4.jpg"
-import image5 from "../Assets/slider8.jpg"
+import image5 from "../Assets/slider9.jpg"
 import image6 from "../Assets/slider5.jpg"
 import image7 from "../Assets/slider6.jpg"
 import image8 from "../Assets/slider2.jpg"
@@ -32,7 +32,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Shoes</h5>
                             </div>
 
                             <div className="rating">
@@ -53,7 +53,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Harbal Oil</h5>
                             </div>
 
                             <div className="rating">
@@ -74,7 +74,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Iphone</h5>
                             </div>
 
                             <div className="rating">
@@ -95,7 +95,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Smart Watch</h5>
                             </div>
 
                             <div className="rating">
@@ -116,7 +116,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Febrez</h5>
                             </div>
 
                             <div className="rating">
@@ -137,7 +137,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Iphone</h5>
                             </div>
 
                             <div className="rating">
@@ -158,7 +158,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Iphone </h5>
                             </div>
 
                             <div className="rating">
@@ -179,7 +179,7 @@ const Slider = () => {
                         </div>
                         <div className="product-body">
                             <div className="title">
-                                <h5>Rolex Watch</h5>
+                                <h5>Nike Shoes</h5>
                             </div>
 
                             <div className="rating">

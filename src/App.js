@@ -7,25 +7,9 @@ import ProductContextProvider from './Global/ProductContext';
 import Cart from './Components/Cart';
 import NotFound from './Components/NotFound';
 import CartContextProvider from './Global/CartContext';
-import Slider from './Components/Slider';
-import Card from './Components/Card';
-
-
-
-
-
-
-
-
-
-
-
-
 function App() {
   return (
     <>
-
-
       <ProductContextProvider>
 
         <CartContextProvider>
@@ -36,19 +20,13 @@ function App() {
               <Route path='/home' element={<Products />} />
               <Route path='/products' element={<Products />} />
               <Route path='/cart' element={<Cart />} />
-              <Route path='*' element={<NotFound />} />
-
-
+              <Route path='*' element={<Products />} />
             </Routes>
-
           </Router>
-
-
         </CartContextProvider>
       </ProductContextProvider>
-      {/* 
-<Slider/>
-<Card/> */}
+   
+
 
 
 
